@@ -17,7 +17,7 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407/9
 
 ## tools
 
-- Generate strings from regular expressions,
+- Strgen: Generate strings from regular expressions,
 
   https://github.com/miner/strgen
   
@@ -25,7 +25,7 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407/9
 
   https://github.com/bhb/expound
   
-- Clojure(Script) library for phrasing spec problems. Phrasing refers to converting to human readable messages.
+- Phrase: Clojure(Script) library for phrasing spec problems. Phrasing refers to converting to human readable messages.
 
   https://github.com/alexanderkiel/phrase
   
