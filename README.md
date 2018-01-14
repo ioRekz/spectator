@@ -7,6 +7,10 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407/9
 
 ## specs
 
+- specs to describe Clojure core macros and functions
+
+  https://github.com/clojure/core.specs.alpha/blob/master/src/main/clojure/clojure/core/specs/alpha.clj
+
 - internet email host url ip-address number 
   
   https://github.com/SparkFund/useful-specs
