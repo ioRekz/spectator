@@ -17,3 +17,4 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407/9
 - [CSS Units](https://github.com/roman01la/cljss/blob/master/src/cljss/css/units.clj)
 - [sql jdbc](https://github.com/clojure/java.jdbc/blob/master/src/main/clojure/clojure/java/jdbc/spec.clj)
 - [a spec for errors](https://github.com/cognitect-labs/anomalies)
+- [specs for Ring](https://github.com/ring-clojure/ring-spec)
