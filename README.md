@@ -5,7 +5,7 @@ The goal is to start simple with a single Readme listing useful spec links.
 If we manage to get enough materials, we can consider doing a dedicated website with search features.
 
 ## Discussion on clojureverse 
-https://clojureverse.org/t/central-repository-for-clojure-specs/1407/9
+https://clojureverse.org/t/central-repository-for-clojure-specs/1407
 
 ## specs
 
