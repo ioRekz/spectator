@@ -1,5 +1,5 @@
 # spectator
-Curated list of public [clojure specs](https://clojure.org/about/spec) and tools
+Curated list of public [clojure specs](https://clojure.org/about/spec)
 
 
 ## Discussion on clojureverse 
