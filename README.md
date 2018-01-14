@@ -15,3 +15,7 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407/9
   
   https://github.com/roman01la/cljss/blob/master/src/cljss/media.clj
   
+- sql jdbc 
+
+  https://github.com/clojure/java.jdbc/blob/master/src/main/clojure/clojure/java/jdbc/spec.clj
+  
