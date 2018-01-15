@@ -18,3 +18,4 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407
 - [sql jdbc](https://github.com/clojure/java.jdbc/blob/master/src/main/clojure/clojure/java/jdbc/spec.clj)
 - [a spec for errors](https://github.com/cognitect-labs/anomalies)
 - [specs for Ring](https://github.com/ring-clojure/ring-spec)
+- [clj-time specs and generators](https://github.com/clj-time/clj-time/blob/master/src/clj_time/spec.clj)
