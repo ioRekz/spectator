@@ -19,3 +19,4 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407
 - [a spec for errors](https://github.com/cognitect-labs/anomalies)
 - [specs for Ring](https://github.com/ring-clojure/ring-spec)
 - [clj-time specs and generators](https://github.com/clj-time/clj-time/blob/master/src/clj_time/spec.clj)
+- [url](https://gist.github.com/conan/8f0c879c47d14d5713f7a0986f81285d)
