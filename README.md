@@ -24,3 +24,5 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407
 - [uri](https://github.com/invetica/uri/blob/master/src/invetica/uri.clj)
 - [datomic](https://github.com/alexanderkiel/datomic-spec)
 - [lein config](https://github.com/bhauman/leiningen/blob/39f5faf2d01d3531eef2c2bcf219f5014f1b41ae/leiningen-core/src/leiningen/core/project_schema.clj) - will need update
+- [cljs compile options](https://github.com/bhauman/lein-figwheel/blob/master/sidecar/src/figwheel_sidecar/schemas/cljs_options.clj)
+- [figwheel config](https://github.com/bhauman/lein-figwheel/blob/master/sidecar/src/figwheel_sidecar/schemas/config.clj)
