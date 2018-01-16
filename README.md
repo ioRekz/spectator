@@ -21,3 +21,4 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407
 - [clj-time specs and generators](https://github.com/clj-time/clj-time/blob/master/src/clj_time/spec.clj)
 - [url](https://gist.github.com/conan/8f0c879c47d14d5713f7a0986f81285d)
 - [media types](https://github.com/invetica/media-types)
+- [uri](https://github.com/invetica/uri/blob/master/src/invetica/uri.clj)
