@@ -23,3 +23,4 @@ https://clojureverse.org/t/central-repository-for-clojure-specs/1407
 - [media types](https://github.com/invetica/media-types)
 - [uri](https://github.com/invetica/uri/blob/master/src/invetica/uri.clj)
 - [datomic](https://github.com/alexanderkiel/datomic-spec)
+- [lein config](https://github.com/bhauman/leiningen/blob/39f5faf2d01d3531eef2c2bcf219f5014f1b41ae/leiningen-core/src/leiningen/core/project_schema.clj) - will need update
